@@ -15,7 +15,7 @@ Professors can vary for Discrete Math (I took it with a graduate student named M
 
 ### FAQ
 - Do I need Calculus for Discrete?
-    - No! The only prerequisite for Discrete is one introductory programming class. No higher mathematics experience is assumed, but having some maturity with college mathematics wouldn't hurt.  
+-     No! The only prerequisite for Discrete is one introductory programming class. No higher mathematics experience is assumed, but having some maturity with college mathematics wouldn't hurt.  
 - How much programming is in Discrete?
   This is dependent on the professor. My Discrete course was entirely theoretical with almost no programming. Prof. Dear's course, on the other hand, emphasizes writing concept implementations in Python. However, generally, Discrete has far less programming than courses like COMES 1004 or COMS 3134 which are programming-focused.
 - When should I take Discrete?
