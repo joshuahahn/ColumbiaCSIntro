@@ -12,7 +12,7 @@ Stay tuned for applications to join ADI Committee:
 ## Additional Resources 
 
 - [CS Department Website](https://www.cs.columbia.edu/)
-- [CS on Columbia College Bulletin)[https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/]
+- [CS on Columbia College Bulletin](https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/)
 - [CS on SEAS Bulletin](https://bulletin.engineering.columbia.edu/computer-science)
 - [CS on GS Bulletin](https://bulletin.columbia.edu/general-studies/majors-concentrations/computer-science/)
 - [Barnard CS](https://cs.barnard.edu/)
