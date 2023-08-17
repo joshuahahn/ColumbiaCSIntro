@@ -30,9 +30,9 @@ Upper-level computer science courses such as COMS 3261 Computer Science Theory o
 Professors can vary for Discrete Math (I took it with a graduate student named Melanie Subbiah), but usually the two professors who wind up teaching the course are Tony Dear (in the fall) and Ansaf Salleb-Aouissi (in the Spring). Reviews for each professor can be found on culpa.info which is operated by Columbia Spectator. 
 
 ### FAQ
-- Do I need Calculus for Discrete?
+- **Do I need Calculus for Discrete?**
   No! The only prerequisite for Discrete is one introductory programming class. No higher mathematics experience is assumed, but having some maturity with college mathematics wouldn't hurt.  
-- How much programming is in Discrete?
+- **How much programming is in Discrete?**
   This is dependent on the professor. My Discrete course was entirely theoretical with almost no programming. Prof. Dear's course, on the other hand, emphasizes writing concept implementations in Python. However, generally, Discrete has far less programming than courses like COMES 1004 or COMS 3134 which are designed around programming.
-- When should I take Discrete?
+- **When should I take Discrete?**
   It's quite common to take Discrete after COMS 1004. A great many students take it alongside COMS 3134 Data Structures & Algorithms or COMS 3137 Advanced Programming. Taking Discrete early opens up the door to higher level theoretical computer science courses. However, ensure that you've taken at least one programming class at Columbia before attempting Discrete. 
