@@ -44,6 +44,32 @@ Professors can vary for Discrete Math (I took it with a graduate student named M
 - **When should I take Discrete?**
   It's quite common to take Discrete after COMS 1004. A great many students take it alongside COMS 3134 Data Structures & Algorithms or COMS 3137 Advanced Programming. Taking Discrete early opens up the door to higher level theoretical computer science courses. However, ensure that you've taken at least one programming class at Columbia before attempting Discrete. 
 
+
+# COMS W3157: Advanced Programming
+
+### By Anthony Zhou (CC '23, CS)
+
+## Overview
+
+Advanced Programming is a bit of a misnomer. It should probably be called Systems Programming. This class covers C (the programming language, not the letter) and UNIX (the operating system). The course starts with the basics of the C language and UNIX commands, and ratchets up into networking with HTTP and TCP. The culmination? A web server written entirely in C. 
+
+Professor Jae Woo Lee notably summarized the curriculum in a paper cleverly titled ["Follow the River and You Will Find the C."](http://www.cs.columbia.edu/~jae/papers/3157-paper-v2.2-camera-final.pdf). 
+
+## Why it matters
+
+What actually happens when you press run on a Python program? Turns out there's all sorts of action going on with memory allocation and packet sending underneath our high-level programs and web apps. If you ever work with servers or embedded systems, you're sure to touch low-level systems code. Even if you only ever build web apps in your life (what a life!), it'll be good understand what's going on behind the scenes. You'll also need knowledge from AP if you want to take Operating Systems.
+
+## Who teaches the class
+
+Jae Woo Lee typically teaches the class, despite his brief sabbatical. The workload is a total of ~7 labs (programming assignments) throughout the semester, along with 3 exams, including the final. Labs can be intense, so start early. 
+
+Jae does not like giving partial credit on exams. But C is also an unforgiving language. So the precise requirements of the class do have some logic to them. 
+
+## FAQ
+
+- **What do labs/exams look like?**
+  Labs are typically a pdf document with a list of monospaced requirements. Make sure to read the requirements carefully so you don't get points docked! Exams are fill-in-the-blank questions about syntax or the output of specific programs. Check the [course webpage](http://www.cs.columbia.edu/~jae/3157/) for more details. 
+
 # CSEE 3827: Fundamentals of Computer Systems
 ### By Joshua Hahn (SEAS '24 CS & Math)
 
