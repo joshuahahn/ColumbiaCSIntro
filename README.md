@@ -7,6 +7,7 @@ The CS major is easily the most popular undergraduate major when accounting for 
 - Additional Resources
 - The Columbia CS Core
   - COMS 3203: Discrete Mathematics
+  - COMS 3157: Advanced Programming
   - CSEE 3827: Fundamentals of Computer Systems
 
 # ADI 
