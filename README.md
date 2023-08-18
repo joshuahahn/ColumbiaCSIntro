@@ -9,6 +9,7 @@ The CS major is easily the most popular undergraduate major when accounting for 
   - COMS 3203: Discrete Mathematics
   - COMS 3157: Advanced Programming
   - CSEE 3827: Fundamentals of Computer Systems
+- CS Tracks
 
 # ADI 
 
@@ -88,3 +89,23 @@ test less heavily.
 ### FAQ
 - **If there is little programming, what do assignments look like?**
   Assignments will vary depending on what you are learning, but here are some example questions: "Given constraints ..., build a ... using ...", "Given a ... processor, explain how the ... instruction will affect each stage of the processor", "Draw a circuit that can do ..."
+
+# CS Tracks
+
+Until 2023, CS majors had to choose one of 5 tracks to pursue:
+
+- Foundations of Computer Science
+- Software Systems
+- Intelligent Systems
+- Applications
+- Vision, Graphics, Interaction, and Robotics
+
+These tracks no longer exist, but they offer useful ways to think about choosing your CS clases. 
+
+## Foundations of Computer Science
+
+In a word: theory. Have you ever wondered about how mystical it is that a program ever works? Or how a machine learning model comes to write Chinese poetry? Sure, we can describe an algorithm and give some intuitions, but how do we *prove* why these things work? The foundations track is about building a rigorous theoretical framework -- think math -- for analyzing computational systems, programs, and algorithms. Things you can do with the foundations track include: proving which kinds of problems are hard to solve (and which kinds are NP-hard), developing runtime and storage bounds for algorithms, and even proving theorems about the perceptual limits of machine learning models. 
+
+As for specific classes, Foundations begins with CS Theory and Analysis of Algorithms, after which you can branch into COMS 4236 Complexity Theory, COMS 4252 Computational Learning Theory, or COMS 4232 Advanced Algorithms. Another option is to go deeper into math, exploring topics like MATH 4061 Modern Analysis, MATH 4041 Modern Algebra, and IEOR 6616 Convex Optimizaion. 
+
+Knowing the foundations helps you understand (and therefore nudge) the limits of computer science.
