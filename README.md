@@ -7,7 +7,9 @@ The CS major is easily the most popular undergraduate major when accounting for 
 - Additional Resources
 - The Columbia CS Core
   - COMS 3203: Discrete Mathematics
+  - COMS 3157: Advanced Programming
   - CSEE 3827: Fundamentals of Computer Systems
+- CS Tracks
 
 # ADI 
 
@@ -44,6 +46,32 @@ Professors can vary for Discrete Math (I took it with a graduate student named M
 - **When should I take Discrete?**
   It's quite common to take Discrete after COMS 1004. A great many students take it alongside COMS 3134 Data Structures & Algorithms or COMS 3137 Advanced Programming. Taking Discrete early opens up the door to higher level theoretical computer science courses. However, ensure that you've taken at least one programming class at Columbia before attempting Discrete. 
 
+
+# COMS W3157: Advanced Programming
+
+### By Anthony Zhou (CC '23, CS)
+
+## Overview
+
+Advanced Programming is a bit of a misnomer. It should probably be called Systems Programming. This class covers C (the programming language, not the letter) and UNIX (the operating system). The course starts with the basics of the C language and UNIX commands, and ratchets up into networking with HTTP and TCP. The culmination? A web server written entirely in C. 
+
+Professor Jae Woo Lee notably summarized the curriculum in a paper cleverly titled ["Follow the River and You Will Find the C."](http://www.cs.columbia.edu/~jae/papers/3157-paper-v2.2-camera-final.pdf). 
+
+## Why it matters
+
+What actually happens when you press run on a Python program? Turns out there's all sorts of action going on with memory allocation and packet sending underneath our high-level programs and web apps. If you ever work with servers or embedded systems, you're sure to touch low-level systems code. Even if you only ever build web apps in your life (what a life!), it'll be good understand what's going on behind the scenes. You'll also need knowledge from AP if you want to take Operating Systems.
+
+## Who teaches the class
+
+Jae Woo Lee typically teaches the class, despite his brief sabbatical. The workload is a total of ~7 labs (programming assignments) throughout the semester, along with 3 exams, including the final. Labs can be intense, so start early. 
+
+Jae does not like giving partial credit on exams. But C is also an unforgiving language. So the precise requirements of the class do have some logic to them. 
+
+## FAQ
+
+- **What do labs/exams look like?**
+  Labs are typically a pdf document with a list of monospaced requirements. Make sure to read the requirements carefully so you don't get points docked! Exams are fill-in-the-blank questions about syntax or the output of specific programs. Check the [course webpage](http://www.cs.columbia.edu/~jae/3157/) for more details. 
+
 # CSEE 3827: Fundamentals of Computer Systems
 ### By Joshua Hahn (SEAS '24 CS & Math)
 
@@ -61,3 +89,23 @@ test less heavily.
 ### FAQ
 - **If there is little programming, what do assignments look like?**
   Assignments will vary depending on what you are learning, but here are some example questions: "Given constraints ..., build a ... using ...", "Given a ... processor, explain how the ... instruction will affect each stage of the processor", "Draw a circuit that can do ..."
+
+# CS Tracks
+
+Until 2023, CS majors had to choose one of 5 tracks to pursue:
+
+- Foundations of Computer Science
+- Software Systems
+- Intelligent Systems
+- Applications
+- Vision, Graphics, Interaction, and Robotics
+
+These tracks no longer exist, but they offer useful ways to think about choosing your CS clases. 
+
+## Foundations of Computer Science
+
+In a word: theory. Have you ever wondered about how mystical it is that a program ever works? Or how a machine learning model comes to write Chinese poetry? Sure, we can describe an algorithm and give some intuitions, but how do we *prove* why these things work? The foundations track is about building a rigorous theoretical framework -- think math -- for analyzing computational systems, programs, and algorithms. Things you can do with the foundations track include: proving which kinds of problems are hard to solve (and which kinds are NP-hard), developing runtime and storage bounds for algorithms, and even proving theorems about the perceptual limits of machine learning models. 
+
+As for specific classes, Foundations begins with CS Theory and Analysis of Algorithms, after which you can branch into COMS 4236 Complexity Theory, COMS 4252 Computational Learning Theory, or COMS 4232 Advanced Algorithms. Another option is to go deeper into math, exploring topics like MATH 4061 Modern Analysis, MATH 4041 Modern Algebra, and IEOR 6616 Convex Optimizaion. 
+
+Knowing the foundations helps you understand (and therefore nudge) the limits of computer science.
